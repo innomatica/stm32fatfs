@@ -1,4 +1,4 @@
-STM32L432 USB MSC test
+STM32FATFS on a flash memory
 
 ![](Doc/Img/picture.jpg)
 
